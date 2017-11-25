@@ -36,7 +36,9 @@
         </android.support.design.widget.CollapsingToolbarLayout>
     </android.support.design.widget.AppBarLayout>
 
-    <include layout="@layout/content_cv" />
+    <include
+        layout="@layout/content_cv"
+        android:layout_height="639dp" />
 
     <android.support.design.widget.FloatingActionButton
         android:layout_marginStart="20dp"
